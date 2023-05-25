@@ -1,3 +1,8 @@
+// esp8266 client that uses vegetronix sensors:
+//    VHT400 soil moisture sensor
+//    TH200  soil temperature sensor
+//    LT150  light lux sensor
+
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
 
